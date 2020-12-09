@@ -3,6 +3,11 @@ ramen
 pizza
 burger
 
+chopsey 
+drins:
+coke
+tea
+coffee
 
 
 
